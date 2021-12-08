@@ -26,4 +26,4 @@ Where the operational code is contained within src/main.cpp.
 
 Also, the curcuit diagram for the project can be seen below:
 
-![circuit_diagram](/Screen\ Shot\ 2021-11-21\ at\ 11.23.24\ PM.png)
+![circuit_diagram](circuit_diagram.png)
