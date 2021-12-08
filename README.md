@@ -21,6 +21,9 @@ This project was created using the PlatformIO[] extension in VS Code. Thus, as c
     └── README
 <pre>
 
+
+
+
 Where the operational code is contained within src/main.cpp. 
 
 Also, the curcuit diagram for the project can be seen below:
